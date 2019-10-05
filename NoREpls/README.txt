@@ -1,0 +1,2 @@
+This patch was very easy to solve, editing one jump (JE > JNE) will make the program take any serial as valid. 
+To open the patch, the zip password is 123.
